@@ -26,7 +26,7 @@ This project is a Hybrid Music Recommendation System that combines Collaborative
 - Pickle is used to save and load precomputed data for quick access.
 
 ## 📂 Dataset
-The system uses the Spotify 30k Songs Dataset that contains:
+The system uses the Spotify 30k Songs Dataset from kaggle that contains:
 - Song metadata: `track_name`, `track_artist`, `track_popularity`.
 - Audio features: `danceability`, `energy`, `tempo`, etc.
 - Playlist data: `playlist_name`, `playlist_genre`, `playlist_id`.
