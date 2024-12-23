@@ -53,7 +53,7 @@ def hybrid_recommendations(df, features, song_name, collab_recs, content_similar
 
 
 def app():
-    st.title("Optimized Hybrid Music Recommendation System")
+    st.title("Hybrid Music Recommendation System")
 
     # Load Precomputed Models and Data
     df = load_data()
