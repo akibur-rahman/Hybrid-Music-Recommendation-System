@@ -43,4 +43,4 @@ This project is open-source and available under the [MIT](https://choosealicense
 
 ## 👥 Contributors
 - Akibur Rahman
-- Afiue Hossain
+- Afique Hossain
